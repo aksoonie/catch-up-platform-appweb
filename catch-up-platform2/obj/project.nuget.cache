@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KHNunU8NuWcn8Dl7pTHQ+4oBNaTLgsfQ+/QJXwHJHcVgGF7+NVbMEpTVXQSvGqcbSa4H0zTMdqqovA96Kg7UPg==",
+  "dgSpecHash": "mM1+jVcAQWmftGKXr6Jh741kej+4vpeArkZRzsdK2jx4Yp79OcIj/ICbEOx9DjsRSPAZwz35Mey+wdd2zJr+iQ==",
   "success": true,
-  "projectFilePath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/catch-up-platform2.csproj",
+  "projectFilePath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/catch-up-platform2.csproj",
   "expectedPackageFiles": [
     "/Users/alumnos/.nuget/packages/bouncycastle.cryptography/2.2.1/bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "/Users/alumnos/.nuget/packages/entityframeworkcore.createdupdateddate/8.0.0/entityframeworkcore.createdupdateddate.8.0.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/catch-up-platform2.csproj": {}
+    "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/catch-up-platform2.csproj": {}
   },
   "projects": {
-    "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/catch-up-platform2.csproj": {
+    "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/catch-up-platform2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/catch-up-platform2.csproj",
+        "projectUniqueName": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/catch-up-platform2.csproj",
         "projectName": "catch-up-platform2",
-        "projectPath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/catch-up-platform2.csproj",
+        "projectPath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/catch-up-platform2.csproj",
         "packagesPath": "/Users/alumnos/.nuget/packages/",
-        "outputPath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/catch-up-platform2/obj/",
+        "outputPath": "/Users/alumnos/Downloads/catch-up-platform2/catch-up-platform2/untitled folder/catch-up-platform-appweb/catch-up-platform2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alumnos/.nuget/NuGet/NuGet.Config"
